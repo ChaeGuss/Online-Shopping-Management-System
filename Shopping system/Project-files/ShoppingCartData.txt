@@ -1,0 +1,3 @@
+asdfgh,sdfghjj,5,30.00,Clothing,dfg,dfrty
+dghj,wertyu,4,20.00,Electronics,dfgh,2
+ert,dfvb,2,70.00,Electronics,fghj,7
